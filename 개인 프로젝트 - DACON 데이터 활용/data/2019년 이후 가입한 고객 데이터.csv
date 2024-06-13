@@ -1,0 +1,300 @@
+customer_id,sex,area,sign_month,sign
+USER_0204,여,"Washington DC",2,2019-10
+USER_1306,여,"New York",2,2019-10
+USER_0832,여,Chicago,2,2019-10
+USER_0777,여,"New Jersey",2,2019-10
+USER_0720,여,California,2,2019-10
+USER_0034,여,"New Jersey",2,2019-10
+USER_1015,남,California,2,2019-10
+USER_1320,여,California,2,2019-10
+USER_0342,여,"New York",2,2019-10
+USER_0593,여,"New Jersey",2,2019-10
+USER_0464,여,"New Jersey",2,2019-10
+USER_1238,여,"New York",2,2019-10
+USER_0665,남,"New York",2,2019-10
+USER_0732,여,Chicago,2,2019-10
+USER_0574,남,Chicago,2,2019-10
+USER_0695,남,California,2,2019-10
+USER_1125,여,Chicago,2,2019-10
+USER_0042,남,California,2,2019-10
+USER_0155,여,"New York",2,2019-10
+USER_1458,여,"New Jersey",2,2019-10
+USER_1026,여,Chicago,2,2019-10
+USER_0750,남,"New York",2,2019-10
+USER_1311,남,Chicago,2,2019-10
+USER_0270,남,Chicago,2,2019-10
+USER_0573,남,California,2,2019-10
+USER_0171,여,California,2,2019-10
+USER_1043,여,"New Jersey",3,2019-09
+USER_1099,여,California,3,2019-09
+USER_0618,여,Chicago,3,2019-09
+USER_1205,남,California,3,2019-09
+USER_0462,여,Chicago,3,2019-09
+USER_0068,남,California,3,2019-09
+USER_0654,여,California,3,2019-09
+USER_1314,남,"New York",3,2019-09
+USER_0154,여,"Washington DC",3,2019-09
+USER_0856,여,Chicago,3,2019-09
+USER_0512,여,"New York",3,2019-09
+USER_0729,여,"New York",3,2019-09
+USER_0491,여,Chicago,3,2019-09
+USER_1435,여,Chicago,3,2019-09
+USER_1431,남,"New York",3,2019-09
+USER_0074,여,Chicago,3,2019-09
+USER_0831,남,California,3,2019-09
+USER_0404,여,"New Jersey",3,2019-09
+USER_1244,여,Chicago,3,2019-09
+USER_1137,여,Chicago,3,2019-09
+USER_0333,남,Chicago,3,2019-09
+USER_0192,남,"New York",3,2019-09
+USER_0114,여,"New York",3,2019-09
+USER_0644,남,"Washington DC",4,2019-08
+USER_0834,여,"Washington DC",4,2019-08
+USER_1232,여,"New York",4,2019-08
+USER_0571,여,"Washington DC",4,2019-08
+USER_0584,여,Chicago,4,2019-08
+USER_0494,여,"New York",4,2019-08
+USER_0653,여,"New York",4,2019-08
+USER_0203,남,"New Jersey",4,2019-08
+USER_1271,여,California,4,2019-08
+USER_0229,여,Chicago,4,2019-08
+USER_0641,여,Chicago,4,2019-08
+USER_0577,여,Chicago,4,2019-08
+USER_0522,여,"New Jersey",4,2019-08
+USER_0979,여,Chicago,4,2019-08
+USER_0240,여,Chicago,4,2019-08
+USER_1385,남,California,4,2019-08
+USER_0225,여,California,4,2019-08
+USER_0499,남,"New Jersey",4,2019-08
+USER_0761,남,Chicago,4,2019-08
+USER_0854,여,Chicago,4,2019-08
+USER_0594,남,Chicago,4,2019-08
+USER_0091,남,California,4,2019-08
+USER_1031,여,Chicago,4,2019-08
+USER_1022,여,Chicago,4,2019-08
+USER_0371,여,"New Jersey",4,2019-08
+USER_0811,여,"New York",4,2019-08
+USER_1324,여,Chicago,4,2019-08
+USER_0099,여,Chicago,4,2019-08
+USER_1046,여,"New York",4,2019-08
+USER_0669,여,"New Jersey",4,2019-08
+USER_0815,여,California,4,2019-08
+USER_0663,여,California,4,2019-08
+USER_1416,남,"Washington DC",4,2019-08
+USER_0067,여,"New Jersey",4,2019-08
+USER_0217,남,"New York",4,2019-08
+USER_0163,여,"New Jersey",4,2019-08
+USER_0864,남,Chicago,4,2019-08
+USER_0771,여,"New York",4,2019-08
+USER_1170,남,California,5,2019-07
+USER_1343,여,"Washington DC",5,2019-07
+USER_0560,남,California,5,2019-07
+USER_1460,여,"Washington DC",5,2019-07
+USER_0174,여,California,5,2019-07
+USER_0800,여,"New York",5,2019-07
+USER_1055,남,Chicago,5,2019-07
+USER_0901,남,California,5,2019-07
+USER_0110,여,California,5,2019-07
+USER_1392,남,"New Jersey",5,2019-07
+USER_1304,여,Chicago,5,2019-07
+USER_1131,여,Chicago,5,2019-07
+USER_0320,여,"New York",5,2019-07
+USER_0369,여,California,5,2019-07
+USER_0200,여,"New York",5,2019-07
+USER_1192,여,California,5,2019-07
+USER_1072,여,"New Jersey",5,2019-07
+USER_0368,여,California,5,2019-07
+USER_0105,여,California,5,2019-07
+USER_1442,여,Chicago,5,2019-07
+USER_0208,여,California,5,2019-07
+USER_0930,여,"New York",5,2019-07
+USER_0441,여,California,5,2019-07
+USER_0370,여,"New York",5,2019-07
+USER_0794,여,Chicago,5,2019-07
+USER_1463,여,California,5,2019-07
+USER_0113,남,"Washington DC",5,2019-07
+USER_0424,여,"New York",5,2019-07
+USER_0406,여,California,5,2019-07
+USER_0289,여,"New York",5,2019-07
+USER_1239,남,Chicago,6,2019-06
+USER_1317,여,Chicago,6,2019-06
+USER_0109,남,Chicago,6,2019-06
+USER_0343,여,California,6,2019-06
+USER_0496,여,California,6,2019-06
+USER_1326,여,"New York",6,2019-06
+USER_0803,남,Chicago,6,2019-06
+USER_0678,여,"New York",6,2019-06
+USER_0291,남,"Washington DC",6,2019-06
+USER_0348,여,California,6,2019-06
+USER_0637,남,Chicago,6,2019-06
+USER_0476,남,"New York",6,2019-06
+USER_1128,여,California,6,2019-06
+USER_0970,남,"Washington DC",6,2019-06
+USER_0817,여,Chicago,6,2019-06
+USER_1005,남,"New Jersey",6,2019-06
+USER_1427,여,"New York",6,2019-06
+USER_0850,여,California,6,2019-06
+USER_1397,남,Chicago,6,2019-06
+USER_1098,남,California,6,2019-06
+USER_1296,여,"New York",6,2019-06
+USER_0376,여,"New Jersey",6,2019-06
+USER_1211,여,California,6,2019-06
+USER_0548,남,California,6,2019-06
+USER_0975,남,"Washington DC",6,2019-06
+USER_1011,남,"New York",6,2019-06
+USER_0861,남,"New York",6,2019-06
+USER_1226,여,Chicago,6,2019-06
+USER_0137,남,Chicago,6,2019-06
+USER_1446,여,"New York",6,2019-06
+USER_0530,여,California,6,2019-06
+USER_0764,남,California,6,2019-06
+USER_0290,남,Chicago,6,2019-06
+USER_0276,남,"Washington DC",6,2019-06
+USER_1394,여,Chicago,6,2019-06
+USER_0415,남,Chicago,6,2019-06
+USER_1014,여,"New York",7,2019-05
+USER_0481,여,Chicago,7,2019-05
+USER_0785,여,"New Jersey",7,2019-05
+USER_1082,여,Chicago,7,2019-05
+USER_1151,남,Chicago,7,2019-05
+USER_0364,여,California,7,2019-05
+USER_0420,여,"New York",7,2019-05
+USER_0353,여,California,7,2019-05
+USER_1406,남,California,7,2019-05
+USER_0280,여,"New York",7,2019-05
+USER_1114,여,"New York",7,2019-05
+USER_0675,남,California,7,2019-05
+USER_0713,여,California,7,2019-05
+USER_0347,남,"New York",7,2019-05
+USER_1393,여,Chicago,7,2019-05
+USER_0450,여,"New York",7,2019-05
+USER_0839,여,California,7,2019-05
+USER_0256,남,Chicago,7,2019-05
+USER_1050,남,"New York",7,2019-05
+USER_1252,남,Chicago,7,2019-05
+USER_0493,여,"New York",7,2019-05
+USER_0956,남,Chicago,7,2019-05
+USER_1379,남,"New Jersey",7,2019-05
+USER_0472,여,Chicago,7,2019-05
+USER_1332,여,California,7,2019-05
+USER_0562,여,California,7,2019-05
+USER_1132,여,California,7,2019-05
+USER_1264,여,Chicago,7,2019-05
+USER_0507,여,"New Jersey",7,2019-05
+USER_1122,여,"New Jersey",7,2019-05
+USER_0098,여,California,7,2019-05
+USER_1357,남,California,8,2019-04
+USER_0853,여,"New Jersey",8,2019-04
+USER_0673,남,"New Jersey",8,2019-04
+USER_1176,남,Chicago,8,2019-04
+USER_0065,여,Chicago,8,2019-04
+USER_1341,남,California,8,2019-04
+USER_0632,여,"New Jersey",8,2019-04
+USER_0536,여,California,8,2019-04
+USER_0233,여,California,8,2019-04
+USER_1230,남,Chicago,8,2019-04
+USER_0814,여,"New Jersey",8,2019-04
+USER_0878,여,California,8,2019-04
+USER_0147,여,California,8,2019-04
+USER_0046,남,Chicago,8,2019-04
+USER_0059,여,Chicago,8,2019-04
+USER_1330,여,Chicago,8,2019-04
+USER_0686,여,"New Jersey",8,2019-04
+USER_0015,남,California,8,2019-04
+USER_0580,남,"New York",8,2019-04
+USER_1200,남,Chicago,8,2019-04
+USER_1217,여,"Washington DC",8,2019-04
+USER_0310,여,"New Jersey",8,2019-04
+USER_0329,여,Chicago,8,2019-04
+USER_0662,여,California,8,2019-04
+USER_0227,여,California,8,2019-04
+USER_0433,남,California,8,2019-04
+USER_1447,남,California,8,2019-04
+USER_1225,여,Chicago,8,2019-04
+USER_0392,여,Chicago,9,2019-03
+USER_1216,여,Chicago,9,2019-03
+USER_0893,남,Chicago,9,2019-03
+USER_0757,남,California,9,2019-03
+USER_0661,여,"New York",9,2019-03
+USER_0581,남,"New York",9,2019-03
+USER_0022,남,"New York",9,2019-03
+USER_0032,여,California,9,2019-03
+USER_1209,여,California,9,2019-03
+USER_0169,남,"New York",9,2019-03
+USER_0948,여,California,9,2019-03
+USER_0934,여,California,9,2019-03
+USER_0944,남,California,9,2019-03
+USER_1265,여,Chicago,9,2019-03
+USER_0933,여,California,9,2019-03
+USER_0860,여,Chicago,9,2019-03
+USER_1430,여,"New York",9,2019-03
+USER_0117,여,Chicago,9,2019-03
+USER_1197,남,Chicago,9,2019-03
+USER_0500,남,"New Jersey",9,2019-03
+USER_0687,남,"New Jersey",9,2019-03
+USER_1282,여,California,9,2019-03
+USER_1413,여,California,9,2019-03
+USER_1065,여,"Washington DC",9,2019-03
+USER_1067,여,California,9,2019-03
+USER_0235,여,California,9,2019-03
+USER_1124,여,Chicago,9,2019-03
+USER_1340,여,California,9,2019-03
+USER_0459,여,"New York",10,2019-02
+USER_0726,남,California,10,2019-02
+USER_0193,여,Chicago,10,2019-02
+USER_1019,여,California,10,2019-02
+USER_1391,여,California,10,2019-02
+USER_0807,여,"New Jersey",10,2019-02
+USER_0664,남,Chicago,10,2019-02
+USER_1421,여,California,10,2019-02
+USER_1153,여,California,10,2019-02
+USER_0756,여,California,10,2019-02
+USER_0403,여,"New York",10,2019-02
+USER_1092,여,"New York",10,2019-02
+USER_0013,여,"New Jersey",10,2019-02
+USER_0087,여,Chicago,10,2019-02
+USER_0938,남,"New York",10,2019-02
+USER_0823,남,"New York",10,2019-02
+USER_1213,여,"New York",10,2019-02
+USER_0206,남,"Washington DC",10,2019-02
+USER_1419,여,Chicago,10,2019-02
+USER_0527,여,"Washington DC",10,2019-02
+USER_0064,여,"New Jersey",10,2019-02
+USER_0818,남,California,10,2019-02
+USER_0037,여,California,10,2019-02
+USER_0072,여,California,10,2019-02
+USER_0413,여,California,10,2019-02
+USER_0209,여,"New York",10,2019-02
+USER_0515,여,"New Jersey",10,2019-02
+USER_0386,여,California,10,2019-02
+USER_0410,여,"New York",10,2019-02
+USER_1116,여,"New York",10,2019-02
+USER_0900,여,California,10,2019-02
+USER_1187,여,California,10,2019-02
+USER_0902,남,"New Jersey",10,2019-02
+USER_1145,여,"New York",10,2019-02
+USER_0712,남,"New York",11,2019-01
+USER_0033,여,California,11,2019-01
+USER_1272,남,"New York",11,2019-01
+USER_1064,여,California,11,2019-01
+USER_1233,남,"New Jersey",11,2019-01
+USER_1229,여,"New York",11,2019-01
+USER_0701,여,"Washington DC",11,2019-01
+USER_1091,남,Chicago,11,2019-01
+USER_0884,여,California,11,2019-01
+USER_0430,남,Chicago,11,2019-01
+USER_0447,여,California,11,2019-01
+USER_0547,남,Chicago,11,2019-01
+USER_0869,남,"New York",11,2019-01
+USER_0804,여,California,11,2019-01
+USER_0957,남,California,11,2019-01
+USER_1243,여,"New Jersey",11,2019-01
+USER_1319,여,"New Jersey",11,2019-01
+USER_1036,여,"New York",11,2019-01
+USER_1396,여,California,11,2019-01
+USER_0388,여,"New Jersey",11,2019-01
+USER_1079,남,"Washington DC",11,2019-01
+USER_0120,여,California,11,2019-01
+USER_0322,여,California,11,2019-01
+USER_1300,여,"New York",11,2019-01
+USER_0142,남,"New York",11,2019-01

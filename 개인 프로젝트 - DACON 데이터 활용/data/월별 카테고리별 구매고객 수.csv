@@ -1,0 +1,208 @@
+order_month,product_category,total_customer_cnt
+2019-01,Nest-USA,180
+2019-01,Apparel,164
+2019-01,Office,145
+2019-01,Drinkware,107
+2019-01,Lifestyle,85
+2019-01,Bags,68
+2019-01,Headgear,34
+2019-01,"Notebooks & Journals",29
+2019-01,Waze,28
+2019-01,Nest-Canada,24
+2019-01,Google,19
+2019-01,Bottles,15
+2019-01,Fun,9
+2019-01,Housewares,9
+2019-01,Android,4
+2019-01,"Gift Cards",4
+2019-01,"More Bags",4
+2019-01,Backpacks,3
+2019-01,Accessories,1
+2019-02,Apparel,99
+2019-02,Nest-USA,93
+2019-02,Office,83
+2019-02,Drinkware,74
+2019-02,Bags,61
+2019-02,Lifestyle,61
+2019-02,Headgear,39
+2019-02,"Notebooks & Journals",28
+2019-02,Nest-Canada,17
+2019-02,Bottles,16
+2019-02,Waze,14
+2019-02,Google,13
+2019-02,Fun,10
+2019-02,Backpacks,5
+2019-02,Housewares,4
+2019-02,"More Bags",4
+2019-02,"Gift Cards",4
+2019-02,Android,1
+2019-03,Apparel,172
+2019-03,Nest-USA,170
+2019-03,Office,147
+2019-03,Drinkware,125
+2019-03,Lifestyle,103
+2019-03,Bags,92
+2019-03,Headgear,47
+2019-03,"Notebooks & Journals",34
+2019-03,Waze,33
+2019-03,Bottles,20
+2019-03,Nest-Canada,20
+2019-03,Housewares,16
+2019-03,Google,16
+2019-03,Fun,14
+2019-03,"More Bags",11
+2019-03,Android,7
+2019-03,Backpacks,5
+2019-03,"Gift Cards",3
+2019-03,Accessories,1
+2019-04,Apparel,184
+2019-04,Nest-USA,152
+2019-04,Office,143
+2019-04,Drinkware,104
+2019-04,Lifestyle,85
+2019-04,Bags,74
+2019-04,Headgear,55
+2019-04,"Notebooks & Journals",47
+2019-04,Waze,25
+2019-04,Bottles,17
+2019-04,Nest-Canada,16
+2019-04,Fun,12
+2019-04,Backpacks,10
+2019-04,Google,10
+2019-04,Housewares,10
+2019-04,"More Bags",10
+2019-04,"Gift Cards",6
+2019-04,Accessories,3
+2019-04,Android,2
+2019-05,Apparel,165
+2019-05,Nest-USA,153
+2019-05,Office,135
+2019-05,Drinkware,104
+2019-05,Lifestyle,87
+2019-05,Bags,78
+2019-05,Headgear,48
+2019-05,"Notebooks & Journals",41
+2019-05,Waze,29
+2019-05,Bottles,25
+2019-05,Backpacks,18
+2019-05,Nest-Canada,15
+2019-05,"Gift Cards",12
+2019-05,Housewares,11
+2019-05,Fun,11
+2019-05,Google,10
+2019-05,"More Bags",8
+2019-05,Accessories,6
+2019-05,Android,5
+2019-06,Apparel,227
+2019-06,Nest-USA,195
+2019-06,Office,163
+2019-06,Drinkware,124
+2019-06,Lifestyle,115
+2019-06,Bags,84
+2019-06,Headgear,55
+2019-06,"Notebooks & Journals",43
+2019-06,Nest-Canada,26
+2019-06,Waze,26
+2019-06,Bottles,19
+2019-06,Fun,16
+2019-06,Google,13
+2019-06,Housewares,10
+2019-06,Android,9
+2019-06,"Gift Cards",9
+2019-06,Accessories,6
+2019-06,Backpacks,4
+2019-07,Apparel,201
+2019-07,Nest-USA,168
+2019-07,Office,148
+2019-07,Drinkware,109
+2019-07,Lifestyle,104
+2019-07,Bags,100
+2019-07,"Notebooks & Journals",85
+2019-07,Headgear,68
+2019-07,Bottles,34
+2019-07,Fun,30
+2019-07,Housewares,19
+2019-07,Nest-Canada,19
+2019-07,Waze,18
+2019-07,Google,10
+2019-07,Android,8
+2019-07,Backpacks,7
+2019-07,"Gift Cards",7
+2019-07,Accessories,4
+2019-08,Apparel,271
+2019-08,Nest-USA,214
+2019-08,Office,179
+2019-08,Drinkware,173
+2019-08,Lifestyle,155
+2019-08,Bags,115
+2019-08,"Notebooks & Journals",110
+2019-08,Headgear,72
+2019-08,Nest,62
+2019-08,Waze,41
+2019-08,Bottles,31
+2019-08,Housewares,31
+2019-08,Nest-Canada,20
+2019-08,Fun,18
+2019-08,Backpacks,10
+2019-08,Accessories,8
+2019-08,"Gift Cards",8
+2019-08,Android,7
+2019-08,Google,4
+2019-09,Apparel,164
+2019-09,Nest-USA,138
+2019-09,Office,124
+2019-09,Lifestyle,110
+2019-09,Drinkware,109
+2019-09,Bags,91
+2019-09,Nest,85
+2019-09,Headgear,43
+2019-09,Bottles,35
+2019-09,"Notebooks & Journals",33
+2019-09,Waze,26
+2019-09,Nest-Canada,13
+2019-09,Accessories,12
+2019-09,Fun,9
+2019-09,Backpacks,5
+2019-09,Housewares,3
+2019-09,"Gift Cards",3
+2019-10,Nest-USA,168
+2019-10,Apparel,157
+2019-10,Office,137
+2019-10,Nest,136
+2019-10,Drinkware,109
+2019-10,Lifestyle,105
+2019-10,Bags,83
+2019-10,Accessories,33
+2019-10,Waze,30
+2019-10,Headgear,19
+2019-10,Bottles,18
+2019-10,Nest-Canada,18
+2019-10,"Gift Cards",14
+2019-10,Backpacks,8
+2019-10,Fun,3
+2019-10,"Notebooks & Journals",2
+2019-11,Nest-USA,163
+2019-11,Apparel,146
+2019-11,Nest,142
+2019-11,Office,123
+2019-11,Drinkware,89
+2019-11,Bags,73
+2019-11,Lifestyle,68
+2019-11,Accessories,47
+2019-11,Waze,44
+2019-11,Nest-Canada,20
+2019-11,Headgear,13
+2019-11,Backpacks,4
+2019-12,Nest-USA,201
+2019-12,Apparel,188
+2019-12,Nest,171
+2019-12,Office,125
+2019-12,Drinkware,61
+2019-12,Bags,48
+2019-12,Lifestyle,45
+2019-12,Accessories,39
+2019-12,Waze,39
+2019-12,Headgear,30
+2019-12,Nest-Canada,18
+2019-12,"Gift Cards",8
+2019-12,"Notebooks & Journals",7
